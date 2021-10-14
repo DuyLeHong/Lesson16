@@ -9,14 +9,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        // code abc 123
-
-        // version 1.0
-
-        // tiep tuc code
-
-        // version 1.1
+        setContentView(R.layout.activity_main); // version 1.1
     }
 }
